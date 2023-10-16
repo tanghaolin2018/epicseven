@@ -135,6 +135,8 @@ def maze():
         a=exists(Template(r"tpl1683703189357.png"))
         touch((a[0], a[1]), duration=0.2)
     sleep(6)
+    touch((0.63*w, 0.12*h), times=2,duration=0.2)
+    sleep(6)
     touch((0.84*w, 0.92*h), duration=0.2)
     sleep(12)
     touch((0.84*w, 0.92*h), duration=0.2)
