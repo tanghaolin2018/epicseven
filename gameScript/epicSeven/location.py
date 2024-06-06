@@ -5,7 +5,7 @@ class Location(Enum):
     random=(0.85,0.48)
 
     #竞技场
-    arena=(0.67,0.90)
+    arena=(0.69,0.90)
     #战斗按钮
     battle=(0.75,0.89)
     #战斗按钮：迷宫

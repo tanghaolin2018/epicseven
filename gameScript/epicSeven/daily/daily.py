@@ -69,7 +69,7 @@ def arena():
 
     touch(get_true_location(Location.arena.value), times=2, duration=0.5)
     sleep(2)
-    touch((0.76*w, 0.47*h), times=2, duration=0.2)
+    touch((0.25*w, 0.5*h), times=2, duration=0.2)
     sleep(10)
     touch((0.88*w, 0.3*h), duration=0.2)
     a = 1
